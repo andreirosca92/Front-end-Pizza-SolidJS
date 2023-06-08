@@ -4,7 +4,7 @@ import "./App.module.css";
 import { Route, Routes, A } from "@solidjs/router";
 
 import Home from "./pages/Home";
-import Cart_v2 from "./pages/Cart_v2";
+import Cart from "./pages/Cart";
 import Product from "./pages/Product";
 
 import About from "./pages/About";
@@ -78,7 +78,7 @@ const App = () => {
 
       <Routes>
         <Route path="/" component={<Home darkTheme={darkTheme} />} />{" "}
-        <Route path="/cart" component={Cart_v2} />{" "}
+        <Route path="/cart" component={Cart} />{" "}
         <Route path="/about" component={About} />{" "}
         <Route path="/contact" component={Contact} />
         <Route path="/login" component={FormLogin} />
