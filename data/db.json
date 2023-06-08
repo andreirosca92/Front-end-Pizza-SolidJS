@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Pizza Margherita",
+            "Ingredienti": "passata di pomodoro, mozzarella di bufala o mozzarella fiordilatte, olio e qualche foglia di basilico",
+            "prezzo": 6,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pizza_Margherita_stu_spivack.jpg/1920px-Pizza_Margherita_stu_spivack.jpg",
+            "specialità": "tradizionale",
+            "valuta": "euro"
+        },
+        {
+            "id": 2,
+            "title": "Pizza Salamino piccante",
+            "Ingredienti": "passata di pomodoro, mozzarella di bufala o mozzarella fiordilatte, olio e salamino piccante",
+            "prezzo": 7,
+            "img": "https://www.petitchef.it/imgupl/recipe/pizza-al-salame-piccante--455634p707853.jpg",
+            "specialità": "tradizionale",
+            "valuta": "euro"
+        },
+        {
+            "id": 3,
+            "title": "Pizza Capricciosa",
+            "Ingredienti": "passata di pomodoro, mozzarella di bufala o mozzarella fiordilatte, prosciutto cotto, funghi, olive verdi e nere, e carciofini e spesso uova",
+            "prezzo": 7,
+            "img": "https://wips.plug.it/cips/buonissimo.org/cms/2019/09/pizza-capricciosa.jpg",
+            "specialità": "tradizionale",
+            "valuta": "euro"
+        },
+        {
+            "id": 4,
+            "title": "Pizza 4 stagioni",
+            "Ingredienti": "passata di pomodoro, mozzarella di bufala o mozzarella fiordilatte, prosciutto cotto, olive nere, carciofini sott'olio e funghi",
+            "prezzo": 8,
+            "img": "https://www.youcookit.net/it/wp-content/uploads/2019/05/pizza-quattro-stagioni-09-1300x975.jpg",
+            "specialità": "tradizionale",
+            "valuta": "euro"
+        },
+        {
+            "id": 5,
+            "title": "Pizza Romana",
+            "Ingredienti": "passata di pomodoro, mozzarella di bufala o mozzarella fiordilatte, acciughe sott'olio e origano",
+            "prezzo": 8,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Thin_crust_Roman_style_pizza_on_table.jpg",
+            "specialità": "tradizionale",
+            "valuta": "euro"
+        },
+        {
+            "id": 6,
+            "title": "Pizza Hawaii",
+            "Ingredienti": "passata di pomodoro, mozzarella di bufala o mozzarella fiordilatte, prosciutto cotto, ananas, olio, origano, sale e pepe",
+            "prezzo": 9,
+            "img": "https://www.pizza-per-tutti.ch/wp-content/uploads/2017/04/pw_pizza_rezept_bild_5_850x485.png",
+            "specialità": "specialità",
+            "valuta": "euro"
+        }
+    ]
+}
