@@ -42,13 +42,7 @@ const Cart = () => {
     console.log("Chiamare stripe");
   };
   const changeHandle = (e, product) => {
-    if (e.target.value > 0) {
-      setItems(
-        (p) => p.id === product.id,
-        "quantity",
-        (q) => e.target.value
-      );
-    } else if (e.target.value <= 1000) {
+    if (e.target.value >= 0 && e.target.value <= 1000) {
       setItems(
         (p) => p.id === product.id,
         "quantity",
