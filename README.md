@@ -1,4 +1,4 @@
-# Full-Stack-Pizza-Shop
+# Front-end-Pizza-SolidJS
 
 ## Image
 
